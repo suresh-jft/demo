@@ -1,5 +1,7 @@
-[
+{
+        'items':[
         {'title':'Update user profile'},
         {'title':'Add user to groups'}
         ]
+}
 
