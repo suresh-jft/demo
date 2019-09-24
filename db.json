@@ -1,6 +1,5 @@
 [
-'Update user profile.',
-        'Add user to groups.',
-        'Transfer group ownership to executor.',
-        'Remove user from groups.'
+        {'title':'Update user profile'},
+        {'title':'Add user to groups'}
         ]
+
